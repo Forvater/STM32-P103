@@ -1,0 +1,9 @@
+Given example projects use source and header files from folder 'library'. Thus when distribute any example 
+project, you should distribute folder 'library' too.
+
+Example projects:
+
+1)GettingStarted - blinking leds
+2)Mass Storage - USB Mass Storage with SD/MMC card
+3)USB Mouse - example USB mouse driver
+4)VirtualCom - USB CDC class example

@@ -1,0 +1,206 @@
+;Codewright Project File (do not remove or modify this line)
+[ProjInit]
+ConfigSetExtMode=2
+ProjSetConfigFlags=0x0c110940
+
+[State]
+SysSetCwd='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\AudioDevice\CW'
+SrchSetFlags=0x0412680a
+SrchSetAgainFlags=0x04036004,0
+SrchSetAgainFlags=0x06136008,1
+SrchSetAttrElements=
+SrchSetAgainAttrElements=
+FileSortMode=0x0
+_StateHistory=FILELIST,'C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\app\usb_dev_desc.h','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\app\usb_hooks.h','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\module\usb_hw.c','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\module\usb_hw.h','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\app\scsi.c','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\app\bot.h','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\board\arm_comm.h','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\module\usb_t9.c','C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\module\usb_t9.h'
+_StateHistory=SEARCH,'DMA ','DMA','USB_DmaInitTransfer','RdyMessEna','BotOutEP','SPI0_DmaTransfer','SPI0','TransferStatus','DMA_ClearITPendingBit','CurrentBuffer'
+_StateHistory=XSYMBOL,'Csw_t','Int32U','UsbClassBotInit','UsbClassBotConfigure','UsbDevStatus','UsbSetInterfaceFeature','UsbGetConfiguration','UsbSetConfiguration','UsbSetInterface','BotOutEP'
+_StateHistory=EDITFILE,'C:\Documents and Settings\user\My Documents\Soft\Iar_work_space','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\AudioDevice\CW\IAR_STM32F_STK_AudioDevice.pjt'
+_StateHistory=DIRECTORY,'C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage'
+
+[Files]
+..\readme.txt
+..\app\bot.h
+..\app\disk.h
+..\app\includes.h
+..\app\lun.c
+..\app\lun.h
+..\app\main.c
+..\app\mmc.c
+..\app\mmc.h
+..\app\mmc_dsk_desc.c
+..\app\mmc_dsk_desc.h
+..\app\mmc_ll_SPI2.c
+..\app\scsi.c
+..\app\scsi.h
+..\app\scsi_cmd.h
+..\app\scsi_desc.h
+..\app\stm32f10x_conf.h
+..\app\stm32f10x_it.c
+..\app\stm32f10x_it.h
+..\app\stm32f10x_vector.c
+..\app\STM32Fx_SPI2_cfg.h
+..\app\usb_cnfg.h
+..\app\usb_desc.c
+..\app\usb_dev_desc.h
+..\app\usb_hooks.c
+..\app\usb_hooks.h
+..\board\arm_comm.h
+..\board\cortexm3_macro.s
+..\config\lnkarm_flash.xcl
+..\config\lnkarm_ram.xcl
+..\module\drv_hd44780.c
+..\module\drv_hd44780.h
+..\module\drv_hd44780_cnfg.h
+..\module\drv_hd44780_l.c
+..\module\drv_hd44780_l.h
+..\module\usb_buffer.c
+..\module\usb_buffer.h
+..\module\usb_desc.h
+..\module\usb_hw.c
+..\module\usb_hw.h
+..\module\usb_t9.c
+..\module\usb_t9.h
+
+
+
+[Editor]
+_RestoreSysFlags=0x432d7fce, 0xfffffffc, 0
+VCSProject=''
+VCSProjectPath=''
+VCSProjectLocalPath=''
+ScrapSetCount=1
+ClipboardSetCount=1
+ClipboardEnableSepStr=1
+ClipboardSetSepStr='\r\n',0
+ClipboardEnableTermStr=1
+ClipboardSetTermStr='\r\n',0
+
+[Tools]
+ToolDeleteList 
+
+[Compiler]
+CompilerNewExt=Release|.asp
+CompilerNewExt=Release|.java
+CompilerNewExt=.htm
+CompilerNewExt=.v
+CompilerNewExt=Release|.txt
+CompilerNewExt=.mac
+CompilerNewExt=Debug|.awk
+CompilerNewExt=.awk
+CompilerNewExt=.bas
+CompilerNewExt=Release|.nrx
+CompilerNewExt=Debug|.rc
+CompilerNewExt=Debug|.rul
+CompilerNewExt=.c
+CompilerNewExt=.adb
+CompilerNewExt=Release|.bat
+CompilerNewExt=.cfml
+CompilerNewExt=.jsp
+CompilerNewExt=Release|.php
+CompilerNewExt=Debug|.php
+CompilerNewExt=Release|.tk
+CompilerNewExt=Debug|.java
+CompilerNewExt=Debug|.jav
+CompilerNewExt=Release|.awk
+CompilerNewExt=.pl
+CompilerNewExt=.vhd
+CompilerNewExt=.h
+CompilerNewExt=.pas
+CompilerNewExt=Release|.xml
+CompilerNewExt=Release|.adb
+CompilerNewExt=Release|.bas
+CompilerNewExt=Release|.cfml
+CompilerNewExt=Release|.rc
+CompilerNewExt=Debug|.txt
+CompilerNewExt=Debug|.bas
+CompilerNewExt=Release|.tcl
+CompilerNewExt=.tk
+CompilerNewExt=Release|.pas
+CompilerNewExt=.asp
+CompilerNewExt=Release|.cs
+CompilerNewExt=Release|.jav
+CompilerNewExt=Release|.htm
+CompilerNewExt=Debug|.html
+CompilerNewExt=.rul
+CompilerNewExt=Debug|.tcl
+CompilerNewExt=Debug|.tk
+CompilerNewExt=Debug|.pas
+CompilerNewExt=Debug|.cob
+CompilerNewExt=Release|.pl
+CompilerNewExt=Release|.ini
+CompilerNewExt=.cob
+CompilerNewExt=Debug|.js
+CompilerNewExt=.js
+CompilerNewExt=Debug|.nrx
+CompilerNewExt=Release|.v
+CompilerNewExt=Release|.html
+CompilerNewExt=Release|.js
+CompilerNewExt=Debug|.jsp
+CompilerNewExt=.php
+CompilerNewExt=.rc
+CompilerNewExt=Debug|.sqlj
+CompilerNewExt=.tcl
+CompilerNewExt=.ini
+CompilerNewExt=Debug|.htm
+CompilerNewExt=Release|.sqlj
+CompilerNewExt=Debug|.cs
+CompilerNewExt=.cs
+CompilerNewExt=.bat
+CompilerNewExt=Release|.cob
+CompilerNewExt=.html
+CompilerNewExt=Release|.jsp
+CompilerNewExt=Debug|.pl
+CompilerNewExt=Debug|.v
+CompilerNewExt=Release|.vhd
+CompilerNewExt=.*
+CompilerNewExt=.cpp
+CompilerNewExt=Debug|.bat
+CompilerNewExt=Debug|.vhd
+CompilerNewExt=.cxx
+CompilerNewExt=Debug|.ini
+CompilerNewExt=Debug|.asp
+CompilerNewExt=Debug|.adb
+CompilerNewExt=.hpp
+CompilerNewExt=.asm
+CompilerNewExt=.txt
+CompilerNewExt=.nrx
+CompilerNewExt=Debug|.xml
+CompilerNewExt=.xml
+CompilerNewExt=.java
+CompilerNewExt=.jav
+CompilerNewExt=Debug|.cfml
+CompilerNewExt=Release|.rul
+CompilerNewExt=.sqlj
+TagSetCmd='"${HOME}${WTAGS}" -oc -d -t"${TAGFILE}.tag" -p"${TAGFILE}.ptg"',0x8000060
+BrowseSetFile='C:\Program Files\Borland\CodeWright\tagfile.ptg'
+TagSetFile='C:\Program Files\Borland\CodeWright\tagfile.tag'
+CompilerAddCmdEx='Debug|$_cw_proj_hash_$','',1073741904,'',80,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'',0,'',0,'_ErrorInfoDefault','','','proj.err','C:\WINDDK\3790.1830\src\kernel\serial'
+CompilerAddResponse='Debug|$_cw_proj_hash_$',
+CompilerAddCmdEx='Release|$_cw_proj_hash_$','',1073741904,'',80,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'',0,'',0,'_ErrorInfoDefault','','','proj.err','C:\WINDDK\3790.1830\src\kernel\serial'
+CompilerAddResponse='Release|$_cw_proj_hash_$',
+CFGSetActive='Release'
+
+[VersionControl:PVCS]
+VCSSetCmd=VCS_CHECKIN_ID,'put -n -T@"%Q" -M@"%Q" "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKINLOCK_ID,'put -n -T@"%Q" -M@"%Q" -l "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKOUT_ID,'get -y "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKOUTLOCK_ID,'get -y -l "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKLOCK_ID,'vcs -y -l "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKUNLOCK_ID,'vcs -y -u "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKLABEL_ID,'vcs -y -v"${VCSLABEL}" "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKLOG_ID,'vlog "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKPROP_ID,'vlog -b "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKDIFF_ID,'vdiff -r "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKMENU_ID,'pvcsvmwn',0x8000000
+VCSSetCmd=VCS_ADD_ID,'vcs -i -t@"%Q" "%b%e"',0x8000040
+VCSSetCmd=VCS_REMOVE_ID,'del /f "%b%{??v|___}e"',0x8000040
+
+[Project]
+ConfigSetUserMakefile=''
+ConfigSetUserMakefileParser=''
+ConfigSetUserMakefileTimeStamp=0
+ConfigSetUserMakefileAutoSync=0
+ConfigSetLinkDBFilename='C:\Program Files\Borland\CodeWright\cwright.ldb'
+ConfigSetMarkDBFilename='C:\Program Files\Borland\CodeWright\cwright.mrk'
+ConfigSetSymbolDBFilename='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\MassStorage\CW\IAR_STM32F_STK_MassStorage.sbl'
+EditSetPath=';C:\My Documents\Work\CodeWrite'

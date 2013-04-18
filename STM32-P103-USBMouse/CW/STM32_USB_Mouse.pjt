@@ -1,0 +1,211 @@
+;Codewright Project File (do not remove or modify this line)
+[ProjInit]
+ConfigSetExtMode=2
+ProjSetConfigFlags=0x0c110940
+
+[State]
+SysSetCwd='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\CW'
+SrchSetFlags=0x0412680a
+SrchSetAgainFlags=0x04036004,0
+SrchSetAgainFlags=0x06100003,1
+SrchSetAttrElements=
+SrchSetAgainAttrElements=
+FileSortMode=0x0
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\drv_hd44780.c',66,66,791,448,-1,-1,1,1,1,1,8,'',0x00900008,0,80,0,0,'',0,1
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.c',88,88,791,448,-1,-1,370,4,370,1,7,'',0x00900008,0,80,0,0,'',0,2
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.h',110,110,791,448,-1,-1,1,1,1,1,6,'',0x00900008,0,80,0,0,'',0,3
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.h',132,132,791,448,-1,-1,1,1,1,1,5,'',0x00900008,0,80,0,0,'',0,4
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.c',154,154,791,448,-1,-1,1,1,1,1,4,'',0x00900008,0,80,0,0,'',0,5
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.c',176,176,791,448,-1,-1,1,1,1,1,3,'',0x00900008,0,80,0,0,'',0,6
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.h',198,198,791,448,-1,-1,1,1,1,1,2,'',0x00900008,0,80,0,0,'',0,7
+_StateView='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_hw.h',0,0,791,448,-1,-1,22,1,22,1,1,'',0x00900018,0,80,0,0,'',0,8
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\drv_hd44780.c',0x00000488,1,1,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.c',0x04000488,370,4,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.h',0x04000488,1,1,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.h',0x04000488,1,1,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.c',0x04000488,1,1,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.c',0x04000488,1,1,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.h',0x04000488,1,1,25,'3 5','',0x3,'',1,72,0,0,'',''
+_StateBuffer='C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_hw.h',0x04000488,22,1,25,'3 5','',0x3,'',1,72,1,0,'',''
+_StateHistory=FILELIST,'C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\drv_hd44780.c','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.c','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.h','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.h','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.c','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.c','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.h','C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_hw.h'
+_StateHistory=SEARCH,'RelativeData0'
+_StateHistory=XSYMBOL,'RelativeData0'
+_StateHistory=DOCUMENTVISIT,'1           1           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\drv_hd44780.c','370         4           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.c','1           1           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\hid_mouse.h','1           1           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.h','1           1           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\module\usb_buffer.c','1           1           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.c','1           1           C:\Documents and Settings\user\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\app\usb_hooks.h'
+_StateDocumentVisit=7
+
+[Files]
+..\readme.txt
+..\app\usb_hooks.h
+..\app\hid.h
+..\app\hid_mouse.c
+..\app\hid_mouse.h
+..\app\includes.h
+..\app\main.c
+..\app\stm32f10x_conf.h
+..\app\stm32f10x_it.c
+..\app\stm32f10x_it.h
+..\app\stm32f10x_vector.c
+..\app\usb_cnfg.h
+..\app\usb_desc.c
+..\app\usb_dev_desc.h
+..\app\usb_hooks.c
+..\board\cortexm3_macro.s
+..\board\arm_comm.h
+..\config\lnkarm_ram.xcl
+..\config\lnkarm_flash.xcl
+..\module\usb_t9.h
+..\module\drv_hd44780.c
+..\module\drv_hd44780.h
+..\module\drv_hd44780_cnfg.h
+..\module\drv_hd44780_l.c
+..\module\drv_hd44780_l.h
+..\module\usb_buffer.c
+..\module\usb_buffer.h
+..\module\usb_desc.h
+..\module\usb_hw.c
+..\module\usb_hw.h
+..\module\usb_t9.c
+
+
+
+[Editor]
+_RestoreSysFlags=0x532d7fce, 0xfffffffc, 0
+VCSProject=''
+VCSProjectPath=''
+VCSProjectLocalPath=''
+ScrapSetCount=1
+ClipboardSetCount=1
+ClipboardEnableSepStr=1
+ClipboardSetSepStr='\r\n',0
+ClipboardEnableTermStr=1
+ClipboardSetTermStr='\r\n',0
+
+[Tools]
+ToolDeleteList 
+
+[Compiler]
+TagSetCmd='"${HOME}${WTAGS}" -oc -d -t"${TAGFILE}.tag" -p"${TAGFILE}.ptg"',0x8000060
+BrowseSetFile='C:\Program Files\Borland\CodeWright\tagfile.ptg'
+TagSetFile='C:\Program Files\Borland\CodeWright\tagfile.tag'
+CompilerAddCmdEx='Debug|$_cw_proj_hash_$','',1073741904,'',80,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'',0,'',0,'_ErrorInfoDefault','','','proj.err','C:\WINDDK\3790.1830\src\kernel\serial'
+CompilerAddResponse='Debug|$_cw_proj_hash_$',
+CompilerAddCmdEx='Release|$_cw_proj_hash_$','',1073741904,'',80,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'${FTEE} nmake',176,'',0,'',0,'_ErrorInfoDefault','','','proj.err','C:\WINDDK\3790.1830\src\kernel\serial'
+CompilerAddResponse='Release|$_cw_proj_hash_$',
+CompilerNewExt=.v
+CompilerNewExt=.htm
+CompilerNewExt=Release|.java
+CompilerNewExt=Release|.asp
+CompilerNewExt=Debug|.rul
+CompilerNewExt=Debug|.rc
+CompilerNewExt=Release|.nrx
+CompilerNewExt=.bas
+CompilerNewExt=.awk
+CompilerNewExt=Debug|.awk
+CompilerNewExt=.mac
+CompilerNewExt=Release|.txt
+CompilerNewExt=Release|.tk
+CompilerNewExt=Debug|.php
+CompilerNewExt=Release|.php
+CompilerNewExt=.jsp
+CompilerNewExt=.cfml
+CompilerNewExt=Release|.bat
+CompilerNewExt=.adb
+CompilerNewExt=.c
+CompilerNewExt=.vhd
+CompilerNewExt=.pl
+CompilerNewExt=Release|.awk
+CompilerNewExt=Debug|.jav
+CompilerNewExt=Debug|.java
+CompilerNewExt=Release|.rc
+CompilerNewExt=Release|.cfml
+CompilerNewExt=Release|.bas
+CompilerNewExt=Release|.adb
+CompilerNewExt=Release|.xml
+CompilerNewExt=.pas
+CompilerNewExt=.h
+CompilerNewExt=.tk
+CompilerNewExt=Release|.tcl
+CompilerNewExt=Debug|.bas
+CompilerNewExt=Debug|.txt
+CompilerNewExt=Debug|.tk
+CompilerNewExt=Debug|.tcl
+CompilerNewExt=.rul
+CompilerNewExt=Debug|.html
+CompilerNewExt=Release|.htm
+CompilerNewExt=Release|.jav
+CompilerNewExt=Release|.cs
+CompilerNewExt=.asp
+CompilerNewExt=Release|.pas
+CompilerNewExt=Release|.pl
+CompilerNewExt=Debug|.cob
+CompilerNewExt=Debug|.pas
+CompilerNewExt=Release|.v
+CompilerNewExt=Debug|.nrx
+CompilerNewExt=.js
+CompilerNewExt=Debug|.js
+CompilerNewExt=.cob
+CompilerNewExt=Release|.ini
+CompilerNewExt=.tcl
+CompilerNewExt=Debug|.sqlj
+CompilerNewExt=.rc
+CompilerNewExt=.php
+CompilerNewExt=Debug|.jsp
+CompilerNewExt=Release|.js
+CompilerNewExt=Release|.html
+CompilerNewExt=Release|.sqlj
+CompilerNewExt=Debug|.htm
+CompilerNewExt=.ini
+CompilerNewExt=Release|.vhd
+CompilerNewExt=Debug|.v
+CompilerNewExt=Debug|.pl
+CompilerNewExt=Release|.jsp
+CompilerNewExt=.html
+CompilerNewExt=Release|.cob
+CompilerNewExt=.bat
+CompilerNewExt=.cs
+CompilerNewExt=Debug|.cs
+CompilerNewExt=Debug|.vhd
+CompilerNewExt=Debug|.bat
+CompilerNewExt=.cpp
+CompilerNewExt=.*
+CompilerNewExt=Debug|.adb
+CompilerNewExt=Debug|.asp
+CompilerNewExt=Debug|.ini
+CompilerNewExt=.cxx
+CompilerNewExt=.txt
+CompilerNewExt=.asm
+CompilerNewExt=.hpp
+CompilerNewExt=.nrx
+CompilerNewExt=.sqlj
+CompilerNewExt=Release|.rul
+CompilerNewExt=Debug|.cfml
+CompilerNewExt=.jav
+CompilerNewExt=.java
+CompilerNewExt=.xml
+CompilerNewExt=Debug|.xml
+CFGSetActive='Release'
+
+[VersionControl:PVCS]
+VCSSetCmd=VCS_CHECKIN_ID,'put -n -T@"%Q" -M@"%Q" "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKINLOCK_ID,'put -n -T@"%Q" -M@"%Q" -l "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKOUT_ID,'get -y "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKOUTLOCK_ID,'get -y -l "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKLOCK_ID,'vcs -y -l "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKUNLOCK_ID,'vcs -y -u "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKLABEL_ID,'vcs -y -v"${VCSLABEL}" "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKLOG_ID,'vlog "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKPROP_ID,'vlog -b "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKDIFF_ID,'vdiff -r "%b%e"',0x8000040
+VCSSetCmd=VCS_CHECKMENU_ID,'pvcsvmwn',0x8000000
+VCSSetCmd=VCS_ADD_ID,'vcs -i -t@"%Q" "%b%e"',0x8000040
+VCSSetCmd=VCS_REMOVE_ID,'del /f "%b%{??v|___}e"',0x8000040
+
+[Project]
+ConfigSetSymbolDBFilename='C:\Documents and Settings\SBB\Desktop\Work\IAR\output_tree\arm\examples\ST\STM32F10x\IAR-STM32-SK\USBMouse\CW\STM32_USB_Mouse.sbl'
+ConfigSetUserMakefile=''
+ConfigSetUserMakefileParser=''
+ConfigSetUserMakefileTimeStamp=0
+ConfigSetUserMakefileAutoSync=0
+ConfigSetLinkDBFilename='C:\Program Files\Borland\CodeWright\cwright.ldb'
+ConfigSetMarkDBFilename='C:\Program Files\Borland\CodeWright\cwright.mrk'
+EditSetPath=''

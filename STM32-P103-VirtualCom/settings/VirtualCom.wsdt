@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>VirtualCom/Flash Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>213</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Find-in-Files>
+        
+        
+        
+      <ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files>
+    <Build><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build><TerminalIO/></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-2382-23927</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>VirtualCom</ExpandedNode><ExpandedNode>VirtualCom/Output</ExpandedNode><ExpandedNode>VirtualCom/STM32F10xFWLib</ExpandedNode><ExpandedNode>VirtualCom/UARTs</ExpandedNode><ExpandedNode>VirtualCom/USB</ExpandedNode><ExpandedNode>VirtualCom/USB/Class</ExpandedNode><ExpandedNode>VirtualCom/USB/HW</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23022-25178</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-24757-22569</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\main.c</Filename><XPos>0</XPos><YPos>89</YPos><SelStart>3121</SelStart><SelEnd>3121</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\board\arm_comm.h</Filename><XPos>0</XPos><YPos>107</YPos><SelStart>3439</SelStart><SelEnd>3439</SelEnd></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-00adab10><key>iaridepm.enu1</key></Toolbar-00adab10></Sizes></Row0><Row1><Sizes/></Row1></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>592</Bottom><Right>287</Right><x>-2</x><y>-2</y><xscreen>185</xscreen><yscreen>168</yscreen><sizeHorzCX>155855</sizeHorzCX><sizeHorzCY>209476</sizeHorzCY><sizeVertCX>243471</sizeVertCX><sizeVertCY>740648</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>166</Bottom><Right>1189</Right><x>-2</x><y>-2</y><xscreen>1191</xscreen><yscreen>168</yscreen><sizeHorzCX>1003370</sizeHorzCX><sizeHorzCY>209476</sizeHorzCY><sizeVertCX>155855</sizeVertCX><sizeVertCY>209476</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

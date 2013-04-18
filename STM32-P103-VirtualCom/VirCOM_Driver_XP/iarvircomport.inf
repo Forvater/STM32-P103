@@ -1,0 +1,159 @@
+;**************************************************
+;*                                                *
+;* iarport.inf - Virtual COM Port to USB          *
+;* Driver for Windows NT family                   *
+;*                                                *
+;* Copyright 2009 IAR Systems                     *
+;*                                                *
+;**************************************************
+
+;
+; Modified for Windows 7 using this info:
+; http://blogs.6bit.com/josh/2009/10/usb-communications-device-class-on-64-bit-windows/
+;
+
+[Version]
+Signature="$Windows NT$"
+Class=Ports
+ClassGUID={4d36e978-e325-11ce-bfc1-08002be10318}
+Provider=%IAR%
+DriverVer=01/05/2011,1.0.8
+
+[SourceDisksFiles]
+
+[SourceDisksNames]
+
+[Manufacturer]
+%IAR%=IAR_Systems, NTx86, NTamd64
+
+[IAR_Systems]
+%IAR_CDC&PID_0008%=IarVirCOM,USB\VID_FFFF&PID_0006
+%IAR_CDC&PID_0008%=IarVirCOM,USB\VID_FFFF&PID_0008
+%IAR_CDC&PID_000B%=IarVirCOM,USB\VID_FFFF&PID_000B
+%IAR_CDC&PID_000F%=IarVirCOM,USB\VID_FFFF&PID_000F
+%IAR_CDC&PID_0011%=IarVirCOM,USB\VID_FFFF&PID_0011
+%IAR_CDC&PID_0015%=IarVirCOM,USB\VID_FFFF&PID_0015
+%IAR_CDC&PID_0019%=IarVirCOM,USB\VID_FFFF&PID_0019
+%IAR_CDC&PID_001C%=IarVirCOM,USB\VID_FFFF&PID_001C
+%IAR_CDC&PID_001F%=IarVirCOM,USB\VID_FFFF&PID_001F
+%IAR_CDC&PID_0023%=IarVirCOM,USB\VID_FFFF&PID_0023
+%IAR_CDC&PID_002E%=IarVirCOM,USB\VID_FFFF&PID_002E
+%IAR_CDC&PID_0027%=IarVirCOM,USB\VID_FFFF&PID_0027
+%IAR_CDC&PID_0029%=IarVirCOM,USB\VID_FFFF&PID_0029
+%IAR_CDC&PID_0033%=IarVirCOM,USB\VID_FFFF&PID_0033
+%IAR_CDC&PID_0037%=IarVirCOM,USB\VID_FFFF&PID_0037
+%IAR_CDC&PID_0038%=IarVirCOM,USB\VID_FFFF&PID_0038
+%IAR_CDC&PID_003B%=IarVirCOM,USB\VID_FFFF&PID_003B
+%IAR_CDC&PID_003E%=IarVirCOM,USB\VID_FFFF&PID_003E
+%IAR_CDC&PID_0042%=IarVirCOM,USB\VID_FFFF&PID_0042
+%IAR_CDC&PID_0045%=IarVirCOM,USB\VID_FFFF&PID_0045
+
+[IAR_Systems.NTx86]
+%IAR_CDC&PID_0008%=IarVirCOM,USB\VID_FFFF&PID_0006
+%IAR_CDC&PID_0008%=IarVirCOM,USB\VID_FFFF&PID_0008
+%IAR_CDC&PID_000B%=IarVirCOM,USB\VID_FFFF&PID_000B
+%IAR_CDC&PID_000F%=IarVirCOM,USB\VID_FFFF&PID_000F
+%IAR_CDC&PID_0011%=IarVirCOM,USB\VID_FFFF&PID_0011
+%IAR_CDC&PID_0015%=IarVirCOM,USB\VID_FFFF&PID_0015
+%IAR_CDC&PID_0019%=IarVirCOM,USB\VID_FFFF&PID_0019
+%IAR_CDC&PID_001C%=IarVirCOM,USB\VID_FFFF&PID_001C
+%IAR_CDC&PID_001F%=IarVirCOM,USB\VID_FFFF&PID_001F
+%IAR_CDC&PID_0023%=IarVirCOM,USB\VID_FFFF&PID_0023
+%IAR_CDC&PID_002E%=IarVirCOM,USB\VID_FFFF&PID_002E
+%IAR_CDC&PID_0027%=IarVirCOM,USB\VID_FFFF&PID_0027
+%IAR_CDC&PID_0029%=IarVirCOM,USB\VID_FFFF&PID_0029
+%IAR_CDC&PID_0033%=IarVirCOM,USB\VID_FFFF&PID_0033
+%IAR_CDC&PID_0037%=IarVirCOM,USB\VID_FFFF&PID_0037
+%IAR_CDC&PID_0038%=IarVirCOM,USB\VID_FFFF&PID_0038
+%IAR_CDC&PID_003B%=IarVirCOM,USB\VID_FFFF&PID_003B
+%IAR_CDC&PID_003E%=IarVirCOM,USB\VID_FFFF&PID_003E
+%IAR_CDC&PID_0042%=IarVirCOM,USB\VID_FFFF&PID_0042
+%IAR_CDC&PID_0045%=IarVirCOM,USB\VID_FFFF&PID_0045
+
+[IAR_Systems.NTamd64]
+%IAR_CDC&PID_0008%=IarVirCOM,USB\VID_FFFF&PID_0006
+%IAR_CDC&PID_0008%=IarVirCOM,USB\VID_FFFF&PID_0008
+%IAR_CDC&PID_000B%=IarVirCOM,USB\VID_FFFF&PID_000B
+%IAR_CDC&PID_000F%=IarVirCOM,USB\VID_FFFF&PID_000F
+%IAR_CDC&PID_0011%=IarVirCOM,USB\VID_FFFF&PID_0011
+%IAR_CDC&PID_0015%=IarVirCOM,USB\VID_FFFF&PID_0015
+%IAR_CDC&PID_0019%=IarVirCOM,USB\VID_FFFF&PID_0019
+%IAR_CDC&PID_001C%=IarVirCOM,USB\VID_FFFF&PID_001C
+%IAR_CDC&PID_001F%=IarVirCOM,USB\VID_FFFF&PID_001F
+%IAR_CDC&PID_0023%=IarVirCOM,USB\VID_FFFF&PID_0023
+%IAR_CDC&PID_002E%=IarVirCOM,USB\VID_FFFF&PID_002E
+%IAR_CDC&PID_0027%=IarVirCOM,USB\VID_FFFF&PID_0027
+%IAR_CDC&PID_0029%=IarVirCOM,USB\VID_FFFF&PID_0029
+%IAR_CDC&PID_0033%=IarVirCOM,USB\VID_FFFF&PID_0033
+%IAR_CDC&PID_0037%=IarVirCOM,USB\VID_FFFF&PID_0037
+%IAR_CDC&PID_0038%=IarVirCOM,USB\VID_FFFF&PID_0038
+%IAR_CDC&PID_003B%=IarVirCOM,USB\VID_FFFF&PID_003B
+%IAR_CDC&PID_003E%=IarVirCOM,USB\VID_FFFF&PID_003E
+%IAR_CDC&PID_0042%=IarVirCOM,USB\VID_FFFF&PID_0042
+%IAR_CDC&PID_0045%=IarVirCOM,USB\VID_FFFF&PID_0045
+
+
+;**************************************************
+;*   Windows NT family                            *
+;**************************************************
+[IarVirCOM.NT]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection
+AddReg=IarVirCOM.NT.AddReg
+
+[IarVirCOM.NT.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,usbser.sys
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[IarVirCOM.NTx86]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection
+AddReg=IarVirCOM.NT.AddReg
+
+[IarVirCOM.NTx86.Services]
+AddService=usbser, 0x00000002,IarVirCOMService_Inst
+
+[IarVirCOM.NTamd64]
+include=mdmcpq.inf
+CopyFiles=FakeModemCopyFileSection
+AddReg=IarVirCOM.NT.AddReg
+
+[IarVirCOM.NTamd64.Services]
+AddService=usbser, 0x00000002,IarVirCOMService_Inst
+
+
+[IarVirCOMService_Inst]
+DisplayName=%IarVirCOM.SvcDesc%
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%12%\usbser.sys
+LoadOrderGroup=Base
+
+;**************************************************
+;* Strings                                        *
+;**************************************************
+[Strings]
+IAR="IAR Systems"
+IAR_CDC&PID_0006="IAR Virtual COM port, IAR LPC214x board"
+IAR_CDC&PID_0008="IAR Virtual COM port, IAR STR750-SK board"
+IAR_CDC&PID_000B="IAR Virtual COM port, IAR STR912-SK board"
+IAR_CDC&PID_000F="IAR Virtual COM port, IAR LPC-2378-SK board"
+IAR_CDC&PID_0011="IAR Virtual COM port, IAR LPC-P2378-SK board"
+IAR_CDC&PID_0015="IAR Virtual COM port, IAR STM32-SK board"
+IAR_CDC&PID_0019="IAR Virtual COM port, IAR LPC-2468 board"
+IAR_CDC&PID_001C="IAR RF Virtual COM port, Olimex STM32F103-STK board"
+IAR_CDC&PID_001F="IAR Virtual COM port, IAR STM32F103ZE-SK board"
+IAR_CDC&PID_0023="IAR Virtual COM port, IAR LPC-2478-SK board"
+IAR_CDC&PID_002E="IAR Virtual COM port, IAR LPC-1766-SK board"
+IAR_CDC&PID_0027="IAR Virtual COM port, IAR MicroBlox LPC2148 board"
+IAR_CDC&PID_0029="IAR Virtual COM port, IAR MicroBlox LPC2478 board"
+IAR_CDC&PID_0033="IAR Virtual COM port, Embedded Artists LPC313x board"
+IAR_CDC&PID_0037="IAR Virtual COM port, IAR LPC-1343-SK board"
+IAR_CDC&PID_0038="IAR Virtual COM port, Future Microblox LPC1768 board"
+IAR_CDC&PID_003B="IAR Virtual COM port, Embedded Artists LPC314x board"
+IAR_CDC&PID_003E="IAR Virtual COM port, Embedded Artists LPC315x board"
+IAR_CDC&PID_0042="IAR Virtual COM port, IAR MB9BF506R-SK board"
+IAR_CDC&PID_0045="IAR Virtual COM port, IAR TMPM366-SK board"
+IarVirCOM.SvcDesc="IAR Virtual COM port"
